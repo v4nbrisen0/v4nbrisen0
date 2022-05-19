@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Microsoft Sentinel SIEM Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a visual representation of raw data in a Microsoft Sentinel workbook.](https://github.com/v4nbrisen0/mssentinelSIEMLab/edit/main/README.md)
 
 
 <h2>Certifications:</h2>
