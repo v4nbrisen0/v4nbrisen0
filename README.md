@@ -1,4 +1,13 @@
-<h1>Hi, I'm Vanessa!  <a href="https://www.linkedin.com/in/brisenovanessa/">Cybersecurity Professional</a>
+
+ 
+<br/>  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/brisenovanessa/">
+    <img src="https://imgur.com/WQZqB0B.png" alt="LinkedIn Badge"/>
+    </a>
+</div>
+<h1>Hello!</h1> <br />
+
 
 <h2>Cybersecurity Projects:</h2>
 
