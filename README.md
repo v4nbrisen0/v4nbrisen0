@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Microsoft Sentinel SIEM Lab</b>
-  - [Creating a visual representation of raw data in a Microsoft Sentinel workbook.](https://github.com/v4nbrisen0/mssentinelSIEMLab/edit/main/README.md)
+  - [Creating a visual representation of raw data in a Microsoft Sentinel workbook.](https://github.com/v4nbrisen0/mssentinelSIEMLab)
 - <b>Vulnerability Management Lab</b>
   - [Install and configure Nessus Essentials to perform credentialed scans against Win10 hosts.](https://github.com/v4nbrisen0/vulnMgmt)
 
