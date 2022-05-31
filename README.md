@@ -6,8 +6,6 @@
     <img src="https://imgur.com/WQZqB0B.png" alt="LinkedIn Badge"/>
     </a>
 </div>
-<h1>Hello!</h1> <br />
-
 
 <h2>Cybersecurity Projects:</h2>
 
@@ -24,7 +22,7 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Vanessa Briseno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vanessa Briseno | LinkedIn" width="30px" src="https://imgur.com/RQ2b1oh.png" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/brisenovanessa/
