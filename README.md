@@ -23,7 +23,7 @@
 <h2>Currently Learning:</h2>
 
 - <b><a href="https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst">IBM Cybersecurity Analyst Professional Certificate</a></b>
-  - [Working through IBMs 8-course series on building skills that a cybersecurity analyst needs. View my progress here!](https://github.com/v4nbrisen0/mssentinelSIEMLab)
+  - [Working through IBMs 8-course series on building skills that a cybersecurity analyst needs. View my progress here!](https://github.com/v4nbrisen0/ibmCSAcourseprogress/blob/main/README.md)
 
 
 <h2>Connect with me:</h2>
