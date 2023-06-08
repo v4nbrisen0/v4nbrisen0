@@ -19,6 +19,7 @@
 
 - <b><a href="https://www.credly.com/badges/cd579dcb-1055-47a0-9538-2be722aae06c/public_url">Systems Security Certified Practitioner (SSCP)</a></b>
 - <b><a href="https://www.credly.com/badges/1846e9f2-0ec3-4b7a-96ff-f8fb76b2e414/public_url">CompTIA Security+ ce Certification</a></b>
+- <b><a href="https://www.credly.com/badges/fd9ee215-7d45-4ba0-981f-b4765333d31c/public_url">Proofpoint Certified Insider Threat Specialist 2023</a></b>
 
 <h2>Currently Learning:</h2>
 
